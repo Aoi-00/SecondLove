@@ -3,7 +3,7 @@ import 'firebase/firestore'
 import 'firebase/auth'
 
 export const config = {
-    apiKey: "AIzaSyDgUKSulrYq50m8_Tle1uvLsH_LZV7Mlss",
+    apiKey: "API_Key_here",
     authDomain: "secondlove-cc51b.firebaseapp.com",
     projectId: "secondlove-cc51b",
     storageBucket: "secondlove-cc51b.appspot.com",
